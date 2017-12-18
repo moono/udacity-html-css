@@ -1,5 +1,4 @@
 # udacity-html-css
-------------------
 
 # Base structures
 
@@ -20,6 +19,7 @@
 </html>
 ```
 
+## CSS
 ```CSS
 /* This is a comment */
 /* Tag selector */
@@ -38,7 +38,6 @@ p {
 }
 ```
 
---------------
 # Useful links
 
 ## HTML
@@ -59,7 +58,6 @@ p {
 ## Other udacity courses
 * Networking for Web Developers: https://www.udacity.com/course/networking-for-web-developers--ud256
 
----------------
 # Text editors
 * Sublime Text3
 * Atom editors
@@ -67,7 +65,6 @@ p {
 * Emacs
 * Vi/Vim
 
-----------
 # Browsers
 * Google Chrome
 * Mozilla Firefox
